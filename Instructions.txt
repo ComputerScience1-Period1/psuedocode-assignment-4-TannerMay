@@ -6,7 +6,7 @@ Instructions:
 1st Round:
 If	your turn: 
 Place down one or more cards that sequentially come after the previous card placed;
-Else	your turn: 
+Else: 
 Place down one or more cards that don’t sequentially come after the previous card placed;
 If	other turn: 
 Consider if the other player is lying about the card they placed and act accordingly;
@@ -17,7 +17,7 @@ The person who lied will take the entire deck and start again, starting with the
 2nd Round:
 If	your turn: 
 Place down one or more cards that sequentially come after the previous card placed;
-Else	your turn: 
+Else: 
 Place down one or more cards that don’t sequentially come after the previous card placed;
 If	other turn: 
 Consider if the other player is lying about the card they placed and act accordingly;
@@ -28,7 +28,7 @@ The person who lied will take the entire deck and start again, starting with the
 3rd Round: 
 If	your turn: 
 Place down one or more cards that sequentially come after the previous card placed;
-Else	your turn: 
+Else: 
 Place down one or more cards that don’t sequentially come after the previous card placed;
 If	other turn: 
 Consider if the other player is lying about the card they placed and act accordingly;
