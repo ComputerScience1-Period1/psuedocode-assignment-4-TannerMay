@@ -42,5 +42,5 @@ If false:
 If  true:
   The person who lied will take the entire deck and start again, starting with the same card.
 
-If  no cards left:
+If  you have no cards left:
 You win the game.
